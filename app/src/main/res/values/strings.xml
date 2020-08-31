@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="repeat">Повторить</string>
+    <string name="error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="error_empty">К сожелению в этом разделе Гифки отсутствуют.</string>
+    <string name="latest">Последние</string>
+    <string name="top">Лучшие</string>
+    <string name="hot">Горячие</string>
+</resources>
